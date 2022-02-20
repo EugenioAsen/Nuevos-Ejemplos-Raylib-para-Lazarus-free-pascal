@@ -3,7 +3,9 @@ Nuevos ejemplos Raylib convertidos de C++ a Lazarus Free Pascal
 
 
 Conversion c++ a pascal
+
 https://www.youtube.com/watch?v=sE3A48UvVBQ
+
 https://www.youtube.com/watch?v=iA_GpmFWokg
 
 
