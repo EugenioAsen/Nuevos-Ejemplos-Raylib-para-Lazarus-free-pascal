@@ -1,0 +1,1 @@
+Instala el paquete y con el se instala el notepad++ con plugin nnp++ para compitar c++ (F6 para ejecutar)
