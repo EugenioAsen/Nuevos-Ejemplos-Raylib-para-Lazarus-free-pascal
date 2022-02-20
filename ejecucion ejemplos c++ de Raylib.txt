@@ -1,0 +1,8 @@
+1. Instala raylib para windows
+
+2. El acceso directo que se crea de "Notepad++ for raylib" en el escritorio 
+   se usa para compilar archivos *.c de Raylib
+
+3. Abrelo con el y dale a la tecla F6. Se compilara y ejecutara a continuación.
+
+Nota: Mete como excepciones en el antivirus, la carpeta de Raylib para Windows.
